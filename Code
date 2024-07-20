@@ -1,9 +1,0 @@
-mkdir Azadar-Hussain
-cd Azadar-Hussain
-git init
-echo "# Azadar-Hussain" >> README.md
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/AHCodesHub/Azadar-Hussain.git
-git push -u origin main
